@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'M FRANCISCO DIEZ
+#### I am a Junior Full Stack Developer
+After spending years at my job I found my passion and vocation in Web Development while I was studying my degree, and all that lead me to where I am today, and I'm happy to be here! 
 
-<!--
-**Serone25/serone25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS / PYTHON
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my website. 
+- 🌱 I’m currently  **mastering** Javascript and Python. 
+- 📫 How to reach me: fdiezsanz@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Serone25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/francisco-m-d%C3%ADez-sanz//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Coming soon...)  
+
+
